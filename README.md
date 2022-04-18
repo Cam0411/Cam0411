@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cam0411
 - 👀 I’m interested in coding and i want to be frontend developer
-- 🌱 I’m currently learning html, css, javasrcipt, typesrcipt.....
+- 🌱 I’m currently learning html, css, javascript, typescript.....
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100009308517792
 - if you like my project, please give me a star.
 <!---
